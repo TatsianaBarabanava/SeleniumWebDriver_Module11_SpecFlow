@@ -5,7 +5,7 @@ Feature: SpecFlowLoginTest
 	I want to be able to Login to Yandex mailbox
 
 @Smoke
-Scenario: The logged in user should be on YandexHomePage
+Scenario Outline: The logged in user should be on YandexHomePage
     When I click on LoginButton
 	And I login with '<login>' and '<password>' credentials 
 	Then I get the compose link text

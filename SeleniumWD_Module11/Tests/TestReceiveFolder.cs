@@ -28,7 +28,7 @@ namespace SeleniumWebDriver
             var actualSubject = receivePage.GetTextFromMailTopicField();
             var actualContent = receivePage.GetTextFromContentField();
             Assert.AreEqual(yandexEmailInstance.Sender, actualSender, "Sender field has an invalid value");
-            Assert.IsTrue(actualSubject.Contains(yandexEmailInstance.Subject), "Email Subject field has an invalid value");
+            StringAssert.Contains(actualSubject,yandexEmailInstance.Subject, "Email Subject field has an invalid value");
             Assert.AreEqual(receivePage.GetTextFromContentField(), actualContent, "Content field has an invalid value");
         }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tatsiana_Barabanava\\source\\repos\\SeleniumWD_Module11\\SeleniumWebDriver.csproj": {}
+    "C:\\Users\\Tatsiana_Barabanava\\source\\repos\\SeleniumWebDriver_Module11_SpecFlow\\SeleniumWD_Module11\\SeleniumWebDriver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tatsiana_Barabanava\\source\\repos\\SeleniumWD_Module11\\SeleniumWebDriver.csproj": {
+    "C:\\Users\\Tatsiana_Barabanava\\source\\repos\\SeleniumWebDriver_Module11_SpecFlow\\SeleniumWD_Module11\\SeleniumWebDriver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tatsiana_Barabanava\\source\\repos\\SeleniumWD_Module11\\SeleniumWebDriver.csproj",
+        "projectUniqueName": "C:\\Users\\Tatsiana_Barabanava\\source\\repos\\SeleniumWebDriver_Module11_SpecFlow\\SeleniumWD_Module11\\SeleniumWebDriver.csproj",
         "projectName": "SeleniumWebDriver",
-        "projectPath": "C:\\Users\\Tatsiana_Barabanava\\source\\repos\\SeleniumWD_Module11\\SeleniumWebDriver.csproj",
+        "projectPath": "C:\\Users\\Tatsiana_Barabanava\\source\\repos\\SeleniumWebDriver_Module11_SpecFlow\\SeleniumWD_Module11\\SeleniumWebDriver.csproj",
         "packagesPath": "C:\\Users\\Tatsiana_Barabanava\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tatsiana_Barabanava\\source\\repos\\SeleniumWD_Module11\\obj\\",
+        "outputPath": "C:\\Users\\Tatsiana_Barabanava\\source\\repos\\SeleniumWebDriver_Module11_SpecFlow\\SeleniumWD_Module11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

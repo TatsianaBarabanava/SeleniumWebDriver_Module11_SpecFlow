@@ -10,12 +10,12 @@ namespace SeleniumWebDriver.Steps
 
         private string baseUrl;
         protected Browser Browser;
+        protected YandexHomePage homePage;
         public static string composeLinkText = "Написать письмо";
         public static User user = User.GetDefaultUser();
         public bool expectedNumberOfDrafts;
         public int actualNumberOfDrafts;
         public static string actualExpression;
-        protected YandexHomePage homePage;
         public static CommonEmailInstance gmailEmailInstance = (CommonEmailInstance)new GmailEmailInstance().getInstanceWithRandomSubjectAndContent();
         public static CommonEmailInstance yandexEmailInstance = (CommonEmailInstance)new YandexEmailInstance().getInstanceWithRandomSubjectAndContent();
 

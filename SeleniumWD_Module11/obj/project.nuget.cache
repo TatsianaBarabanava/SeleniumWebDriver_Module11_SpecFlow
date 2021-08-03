@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N8Cq29URWsMI6ZTkIeUsqcavIfGOdiOWjH6wGt5Cj1xQTr3vXdWswmZdAMys/Pxp5bZoXcsbTCGrZ2zB5hXg+w==",
+  "dgSpecHash": "tovTL4tywi3i9xfFkSkN3EFquGze82435cmjVn9m25uXr+afJY5bFQAuHXgiLeV+zO2xB6T7jhFvTJqYhfrC7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tatsiana_Barabanava\\source\\repos\\SeleniumWD_Module11\\SeleniumWebDriver.csproj",
+  "projectFilePath": "C:\\Users\\Tatsiana_Barabanava\\source\\repos\\SeleniumWebDriver_Module11_SpecFlow\\SeleniumWD_Module11\\SeleniumWebDriver.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tatsiana_Barabanava\\.nuget\\packages\\azure.core\\1.3.0\\azure.core.1.3.0.nupkg.sha512",
     "C:\\Users\\Tatsiana_Barabanava\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
